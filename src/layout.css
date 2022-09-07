@@ -1,0 +1,33 @@
+html {
+    font-family: fantasy;
+  }
+  
+body {
+    background-color: grey;
+    background-image:url('./assests/scrolltable.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:inherit;
+  }
+  
+  header {
+    text-align: center;
+    justify-content: center;
+    margin: 100px 0 0;
+  }
+
+section {
+    width: 50%;
+    height: 50%;
+    margin: 0 0 0 300px;
+    padding: 20px;
+    column-count: 3;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  footer {
+    margin: 32px 0;
+    display: flex;
+    justify-content: center;
+  }

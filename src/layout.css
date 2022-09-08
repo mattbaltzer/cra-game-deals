@@ -4,10 +4,6 @@ html {
   
 body {
     background-color: grey;
-    background-image:url('./assests/scrolltable.png');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position:inherit;
   }
   
   header {
